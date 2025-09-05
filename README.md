@@ -1,8 +1,8 @@
 # BA_212_Tableau_Project
 
 ## Group Members
-Sairaghav Gubba
+Sairaghav Gubba, sairaghav.gubba@wsu.edu
 
-Andy Cheon
+Andy Cheon, andy.cheon@wsu.edu
 
-Wynn Larkin
+Wynn Larkin, wynn.larkin@wsu.edu
